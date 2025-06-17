@@ -1,0 +1,11 @@
+ID_Cliente,Nombre_Cliente,Sector_Empresa,Tipo_Servicio,Duracion_Servicio_Meses,Costo_Total_USD,Satisfaccion_Cliente,Frecuencia_Incidencias
+1,Empresa A,Retail,Soporte Técnico,6,3000,4,2
+2,Empresa B,Educación,Desarrollo Software,12,12000,5,1
+3,Empresa C,Salud,Mantenimiento,3,1500,3,4
+4,Empresa D,Finanzas,Soporte Técnico,9,4500,4,3
+5,Empresa E,Retail,Desarrollo Software,12,12500,5,1
+6,Empresa F,Manufactura,Mantenimiento,4,2000,3,5
+7,Empresa G,Educación,Soporte Técnico,8,4000,4,2
+8,Empresa H,Salud,Desarrollo Software,10,11000,5,1
+9,Empresa I,Finanzas,Mantenimiento,2,1000,2,6
+10,Empresa J,Retail,Soporte Técnico,7,3500,4,2
