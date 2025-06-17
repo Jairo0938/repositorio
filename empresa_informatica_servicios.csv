@@ -1,0 +1,151 @@
+ID_Cliente,Nombre_Cliente,Tipo_Cliente,Servicio_Contratado,Satisfacción,Duración_Servicio_Meses,Costo_Total_USD,Frecuencia_Soporte_Mensual,Región,Fecha_Contrato
+1,"Robbins, Wilson and Gray",Privado,Soporte Técnico,5,25,7644.39,2,Valparaíso,2025-03-17
+2,"Fowler, Bruce and Zimmerman",Público,Desarrollo de Software,1,1,18939.89,1,Biobío,2024-01-09
+3,Douglas-Mcdaniel,Privado,Ciberseguridad,3,36,40876.9,5,Valparaíso,2024-09-30
+4,House Group,Público,Infraestructura TI,4,17,11880.59,2,RM,2025-02-19
+5,Hernandez and Sons,Público,Soporte Técnico,4,5,22601.92,9,Valparaíso,2024-02-08
+6,"Rogers, Carter and Williams",Privado,Desarrollo de Software,4,4,26273.41,9,Valparaíso,2023-10-16
+7,Hardin and Sons,Privado,Consultoría,3,11,24614.29,5,RM,2023-09-10
+8,Powers PLC,Privado,Desarrollo de Software,2,2,5131.83,6,Biobío,2023-11-25
+9,"Cox, Wilcox and Bowers",Privado,Desarrollo de Software,2,23,12142.78,6,Araucanía,2024-03-07
+10,"Reyes, Miller and Bentley",Privado,Infraestructura TI,2,28,40446.78,1,RM,2023-09-04
+11,Schultz-Jenkins,Privado,Consultoría,4,31,45181.0,3,Valparaíso,2025-03-30
+12,Hicks-Ortega,Público,Consultoría,4,27,34176.39,0,Valparaíso,2023-09-02
+13,Manning and Sons,Privado,Soporte Técnico,4,11,26444.67,6,RM,2022-07-28
+14,"Dickerson, Lawson and Hayes",Público,Consultoría,1,6,47383.37,10,Araucanía,2022-11-15
+15,Lutz-Mendoza,Privado,Consultoría,5,26,17213.08,0,Biobío,2024-10-09
+16,Deleon Inc,Público,Ciberseguridad,3,7,7617.79,3,Araucanía,2025-02-10
+17,"Walker, Rodriguez and Cooper",Público,Ciberseguridad,1,8,8395.86,3,Araucanía,2023-12-30
+18,Lopez-Trevino,Público,Desarrollo de Software,2,24,25273.81,5,Maule,2023-09-11
+19,Cruz-Bennett,Público,Infraestructura TI,5,33,29545.22,0,Araucanía,2022-08-02
+20,Phillips-Smith,Privado,Infraestructura TI,4,15,45617.68,7,Biobío,2023-10-25
+21,"Green, Miller and Wood",Público,Infraestructura TI,3,4,17564.4,0,Maule,2025-01-03
+22,Spence Inc,Privado,Soporte Técnico,1,32,39845.51,3,Biobío,2025-03-22
+23,"Warren, Gonzales and Hughes",Privado,Consultoría,5,29,15232.68,10,Biobío,2024-09-02
+24,King Inc,Público,Consultoría,3,32,13905.84,5,Valparaíso,2024-08-22
+25,"Smith, Nolan and Thomas",Público,Infraestructura TI,4,22,22157.26,6,RM,2023-03-19
+26,"Chapman, Moore and Short",Público,Soporte Técnico,5,5,37195.15,7,RM,2022-07-24
+27,Norton LLC,Público,Infraestructura TI,3,14,13444.35,8,RM,2022-09-30
+28,"Pennington, White and Martinez",Público,Ciberseguridad,1,28,12829.43,4,Valparaíso,2024-04-09
+29,Roberts and Sons,Público,Infraestructura TI,5,35,27078.15,10,Biobío,2024-12-13
+30,Whitehead Ltd,Privado,Infraestructura TI,1,8,20748.63,0,Valparaíso,2024-09-16
+31,Hansen Ltd,Privado,Infraestructura TI,5,18,20906.85,2,Maule,2023-03-14
+32,Weber Group,Privado,Consultoría,1,28,23035.45,8,Valparaíso,2024-09-18
+33,Hull PLC,Público,Ciberseguridad,2,4,26223.92,6,Maule,2023-03-15
+34,"Walsh, Hughes and Cantrell",Privado,Consultoría,5,11,9630.52,4,Valparaíso,2025-05-14
+35,Lee and Sons,Público,Soporte Técnico,3,36,14368.03,10,RM,2024-03-17
+36,Zimmerman-Mcdaniel,Privado,Soporte Técnico,5,28,11907.45,1,RM,2024-03-04
+37,Pope Group,Público,Consultoría,4,32,36335.63,9,Biobío,2023-12-06
+38,Ramirez-Velez,Público,Ciberseguridad,1,6,13785.68,6,Maule,2024-06-19
+39,Barnes Ltd,Privado,Consultoría,2,21,39999.79,8,Araucanía,2022-07-10
+40,"Snyder, Klein and Hicks",Privado,Consultoría,5,20,42026.53,6,Araucanía,2025-01-28
+41,Thomas Ltd,Privado,Ciberseguridad,3,30,43223.91,4,Maule,2022-08-05
+42,"Davenport, Smith and Chang",Público,Desarrollo de Software,3,30,5088.93,2,RM,2022-06-29
+43,Morales-Castro,Público,Consultoría,1,11,4897.0,1,Maule,2025-04-14
+44,"Bauer, Brown and Morton",Privado,Ciberseguridad,5,33,44183.38,8,Araucanía,2022-07-13
+45,"Duarte, Blair and Elliott",Público,Infraestructura TI,1,15,36863.71,5,Biobío,2025-01-24
+46,"Reynolds, Phillips and Hansen",Privado,Infraestructura TI,2,32,26783.49,5,Biobío,2023-01-28
+47,Aguilar and Sons,Privado,Infraestructura TI,5,17,5596.55,8,RM,2025-01-16
+48,Mosley-Gould,Privado,Consultoría,5,10,32678.08,9,Araucanía,2022-10-21
+49,"Walker, Wilson and Ruiz",Privado,Ciberseguridad,4,20,43349.83,10,Maule,2022-07-04
+50,Wheeler-Patterson,Privado,Desarrollo de Software,4,17,15356.58,9,RM,2023-01-10
+51,Dodson LLC,Privado,Desarrollo de Software,5,6,30441.95,1,Araucanía,2024-07-28
+52,"Atkinson, Gross and Hartman",Público,Soporte Técnico,2,1,3579.89,4,Biobío,2025-01-18
+53,Collins Inc,Público,Consultoría,3,3,31152.04,9,Biobío,2023-03-27
+54,Armstrong-Moore,Privado,Desarrollo de Software,4,13,27490.58,1,Biobío,2022-09-06
+55,Johnson Group,Público,Ciberseguridad,1,19,10181.29,6,RM,2024-12-07
+56,Powell Ltd,Privado,Consultoría,1,21,33395.09,0,Araucanía,2023-08-27
+57,"Graham, Walker and Ramos",Privado,Soporte Técnico,3,8,18797.62,10,RM,2025-01-13
+58,Jones Group,Público,Ciberseguridad,2,29,38629.29,1,Maule,2024-08-26
+59,Lopez Inc,Público,Ciberseguridad,3,1,14343.3,2,Araucanía,2025-04-23
+60,"Johnson, Freeman and Whitney",Público,Infraestructura TI,3,1,33443.88,4,Maule,2022-08-27
+61,Marquez Group,Público,Consultoría,3,27,6291.3,8,Maule,2024-01-02
+62,"Dominguez, Miller and White",Público,Infraestructura TI,4,4,29090.21,4,Valparaíso,2023-04-15
+63,Turner and Sons,Público,Soporte Técnico,5,16,32947.9,6,Maule,2023-03-01
+64,Yoder PLC,Privado,Infraestructura TI,3,11,37981.34,2,Araucanía,2024-12-16
+65,"Holmes, Robinson and Nelson",Privado,Desarrollo de Software,1,32,26017.59,7,Maule,2022-08-22
+66,Rollins-Mcneil,Público,Consultoría,5,4,42109.52,8,Araucanía,2024-04-26
+67,Beard Group,Privado,Ciberseguridad,3,5,22821.43,9,Maule,2022-06-23
+68,Hall Inc,Público,Infraestructura TI,4,13,8037.93,7,RM,2023-04-12
+69,Montoya LLC,Público,Consultoría,2,12,10941.34,2,RM,2023-04-26
+70,Cantu-Maldonado,Público,Infraestructura TI,2,33,41575.25,2,RM,2024-10-19
+71,"Bowman, Galvan and Mora",Privado,Infraestructura TI,5,9,36922.07,2,Biobío,2023-05-23
+72,Cooper-Ashley,Privado,Infraestructura TI,3,21,48286.5,0,Maule,2022-07-10
+73,"Bell, Barry and Tran",Público,Soporte Técnico,1,20,44796.52,9,Araucanía,2023-04-20
+74,"Dawson, Pierce and Wallace",Público,Soporte Técnico,2,28,23635.84,0,Valparaíso,2023-02-09
+75,Reyes and Sons,Privado,Desarrollo de Software,1,7,27105.89,0,Biobío,2023-05-12
+76,Greene-Reid,Público,Desarrollo de Software,3,13,30127.4,10,Maule,2025-02-04
+77,Frey-Taylor,Público,Desarrollo de Software,3,23,7366.31,2,Biobío,2025-02-14
+78,Espinoza-Gutierrez,Privado,Infraestructura TI,2,24,29014.93,1,Biobío,2023-10-23
+79,Riggs PLC,Privado,Consultoría,3,13,42963.34,3,Biobío,2022-08-29
+80,Collier Inc,Público,Consultoría,5,15,47833.56,8,RM,2023-09-22
+81,Stewart-Mitchell,Público,Desarrollo de Software,4,12,17512.18,0,RM,2022-06-24
+82,Alvarado-Thomas,Privado,Consultoría,5,1,18709.54,8,Maule,2024-11-26
+83,Richardson-Adams,Privado,Consultoría,4,28,34037.73,10,Valparaíso,2022-10-08
+84,Wilson Ltd,Público,Infraestructura TI,5,21,22958.49,4,Araucanía,2023-01-09
+85,"Robinson, Wilson and Cooley",Privado,Infraestructura TI,1,25,44406.03,8,Biobío,2024-05-20
+86,"Wallace, Young and Cunningham",Privado,Infraestructura TI,3,27,26244.22,0,RM,2022-06-18
+87,Case-Thomas,Público,Desarrollo de Software,1,31,1772.36,1,Maule,2022-12-22
+88,Tran Ltd,Público,Ciberseguridad,1,34,32633.07,8,RM,2024-11-04
+89,Carlson-King,Público,Soporte Técnico,5,3,22190.57,6,Valparaíso,2024-04-12
+90,Watson-Frank,Público,Infraestructura TI,3,28,24222.89,7,Biobío,2023-07-02
+91,"Hunter, Murray and Garcia",Público,Desarrollo de Software,2,19,5915.11,9,Maule,2023-02-24
+92,Nielsen PLC,Público,Ciberseguridad,5,11,43368.12,6,Valparaíso,2025-06-14
+93,Perez LLC,Público,Ciberseguridad,5,4,2949.61,10,Maule,2025-03-30
+94,Thomas-Lucero,Público,Soporte Técnico,1,28,10997.47,9,Valparaíso,2022-08-07
+95,"Jones, Ballard and Stewart",Privado,Ciberseguridad,2,30,32143.08,7,Maule,2025-04-17
+96,Patterson-Lopez,Privado,Desarrollo de Software,3,33,42610.64,7,Valparaíso,2023-01-19
+97,Miller-Hicks,Público,Desarrollo de Software,4,36,43189.83,2,RM,2025-01-14
+98,"Oliver, Contreras and Cannon",Privado,Soporte Técnico,4,7,43311.92,6,Valparaíso,2022-09-29
+99,"Carter, Clark and Mcclure",Privado,Desarrollo de Software,3,8,46455.11,8,RM,2023-01-19
+100,"Lee, Sanchez and Roberts",Público,Ciberseguridad,5,31,34779.98,9,Maule,2023-06-05
+101,Salinas-Leonard,Público,Desarrollo de Software,3,20,18959.99,5,Valparaíso,2023-12-31
+102,Gibson Ltd,Público,Infraestructura TI,3,9,49894.06,1,Maule,2024-07-27
+103,Salinas Ltd,Privado,Soporte Técnico,3,22,27080.01,2,Maule,2025-01-27
+104,Valencia LLC,Público,Consultoría,3,6,15741.09,5,Valparaíso,2025-06-01
+105,Valentine-Williams,Público,Infraestructura TI,2,10,47354.48,5,Araucanía,2024-01-11
+106,Figueroa Inc,Privado,Soporte Técnico,2,12,45075.98,9,Araucanía,2023-05-04
+107,"Adams, Garcia and Phillips",Público,Soporte Técnico,1,12,26964.03,10,Valparaíso,2022-10-04
+108,Hill Ltd,Privado,Desarrollo de Software,1,32,29957.98,2,Valparaíso,2024-07-07
+109,Bowen Group,Público,Infraestructura TI,5,2,13741.36,6,Araucanía,2023-03-02
+110,Morales-Woods,Privado,Soporte Técnico,5,28,2990.09,2,RM,2025-05-02
+111,"Bailey, James and Atkinson",Público,Desarrollo de Software,2,11,40196.7,5,Valparaíso,2023-07-05
+112,"Hamilton, Fuller and Gates",Público,Soporte Técnico,5,13,2151.1,7,RM,2023-10-15
+113,Aguirre Group,Público,Desarrollo de Software,2,30,6974.03,2,Maule,2023-01-06
+114,Rodriguez-Smith,Privado,Consultoría,4,2,34363.07,6,Maule,2023-02-12
+115,"Petersen, Carter and Brown",Público,Consultoría,3,9,18069.69,0,RM,2024-05-22
+116,Hubbard LLC,Público,Infraestructura TI,5,27,10410.0,7,Biobío,2023-09-24
+117,Warren Group,Público,Ciberseguridad,3,14,37082.98,2,Maule,2023-07-25
+118,Bowers Inc,Público,Ciberseguridad,3,4,28974.09,9,Maule,2023-03-09
+119,Greene-Mitchell,Público,Infraestructura TI,3,35,44716.67,8,Araucanía,2023-11-06
+120,"Hanson, Norton and Cline",Público,Infraestructura TI,4,29,19403.42,0,Valparaíso,2025-02-28
+121,Ochoa LLC,Público,Desarrollo de Software,4,21,5059.15,4,Araucanía,2023-10-11
+122,"Reed, Johnson and Sanders",Público,Ciberseguridad,1,35,6441.09,9,Valparaíso,2022-06-26
+123,Miller Group,Privado,Infraestructura TI,1,26,31052.8,2,RM,2023-07-18
+124,Clark Group,Privado,Desarrollo de Software,1,5,46723.98,7,RM,2022-07-10
+125,Edwards Ltd,Público,Ciberseguridad,4,25,48160.23,3,Araucanía,2024-05-02
+126,Wagner-Bishop,Privado,Soporte Técnico,5,33,32289.2,8,Maule,2022-07-26
+127,"Wilkins, Webster and Strickland",Privado,Ciberseguridad,2,7,10482.54,7,Maule,2024-11-03
+128,Dean and Sons,Público,Infraestructura TI,3,7,18417.27,6,Valparaíso,2024-01-04
+129,Smith LLC,Público,Desarrollo de Software,4,8,29435.2,9,Araucanía,2024-02-27
+130,"Lewis, Benton and Hanson",Privado,Infraestructura TI,5,15,14362.42,0,RM,2023-02-24
+131,Parrish and Sons,Privado,Infraestructura TI,5,17,29924.92,9,Valparaíso,2023-05-02
+132,Miller-Estrada,Privado,Consultoría,5,1,8270.86,1,RM,2024-08-23
+133,Pierce-Sexton,Público,Infraestructura TI,1,24,15510.07,3,Maule,2022-09-02
+134,Charles Group,Público,Soporte Técnico,4,8,12390.69,8,Maule,2022-08-13
+135,Wright Group,Público,Ciberseguridad,1,20,20701.16,6,Valparaíso,2022-10-17
+136,Rodriguez Group,Privado,Ciberseguridad,1,14,6188.05,7,Araucanía,2022-07-09
+137,"Velez, Holt and Huerta",Público,Consultoría,5,21,38911.57,4,Valparaíso,2025-01-14
+138,Jones-Butler,Privado,Infraestructura TI,2,24,32399.72,3,Valparaíso,2022-10-21
+139,Williams PLC,Público,Ciberseguridad,4,14,34553.04,6,Biobío,2023-03-12
+140,Clay Ltd,Público,Soporte Técnico,2,18,5209.74,3,Valparaíso,2023-01-06
+141,"Diaz, Rivas and Moore",Público,Ciberseguridad,2,7,27100.82,2,RM,2022-07-21
+142,"Miller, Davidson and Nash",Público,Consultoría,4,36,17033.25,9,Valparaíso,2024-09-11
+143,Winters-Cooper,Privado,Ciberseguridad,1,20,19494.68,1,Maule,2024-06-10
+144,Martinez-Brown,Privado,Infraestructura TI,2,22,16310.52,0,Maule,2024-10-11
+145,Mathis LLC,Privado,Infraestructura TI,4,1,7122.33,4,Araucanía,2023-05-26
+146,Moore-Long,Público,Consultoría,5,22,9451.8,2,Araucanía,2025-01-04
+147,"Yang, Gross and Taylor",Público,Ciberseguridad,4,2,40331.8,3,RM,2024-08-28
+148,"Levy, Morris and Ayala",Privado,Consultoría,1,24,48145.18,0,Maule,2023-08-15
+149,"Brennan, Fletcher and Ayala",Privado,Consultoría,1,8,30264.68,5,Maule,2024-07-28
+150,Thomas-Hall,Privado,Soporte Técnico,1,35,43377.39,6,RM,2022-12-03
